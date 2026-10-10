@@ -1,0 +1,47 @@
+[
+  {
+    "combination": "greatshield-4-lone-wolf-2",
+    "packageSha256": "45BE1C51B7018860E83F20B846FF647C32A88539D46791D61AF95A0E89B212B6",
+    "buddyRows": 168,
+    "greatshieldRows": [
+      24800000,
+      24800001,
+      24800002,
+      24800003
+    ],
+    "loneWolfRows": [
+      23200000,
+      23200001
+    ],
+    "retainedNonTargetBuddyRowsUnchanged": true,
+    "otherBndEntriesUnchanged": true,
+    "npcThinkUnchanged": true,
+    "buddyStoneUnchanged": true,
+    "profileOnePackage": true,
+    "startOnlineFalse": true,
+    "nativesEmpty": true,
+    "gameTested": false
+  },
+  {
+    "combination": "greatshield-2-lone-wolf-3",
+    "packageSha256": "08E0124DEDA66D4A626BE3ABA435EB2E0BF4A60E533C657DE71B7723FEF5F9D2",
+    "buddyRows": 167,
+    "greatshieldRows": [
+      24800000,
+      24800001
+    ],
+    "loneWolfRows": [
+      23200000,
+      23200001,
+      23200002
+    ],
+    "retainedNonTargetBuddyRowsUnchanged": true,
+    "otherBndEntriesUnchanged": true,
+    "npcThinkUnchanged": true,
+    "buddyStoneUnchanged": true,
+    "profileOnePackage": true,
+    "startOnlineFalse": true,
+    "nativesEmpty": true,
+    "gameTested": false
+  }
+]

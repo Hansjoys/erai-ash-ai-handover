@@ -1,0 +1,13 @@
+{
+  "status": "A_GROUP_GUARD_V1_PREPARED",
+  "package": "E:\\REAI\\work\\erai-ai-source-90\\group-guard-v1\\package",
+  "profile": "E:\\REAI\\work\\erai-ai-source-90\\group-guard-v1\\erai-90-group-guard-v1.me3",
+  "regulationSha256": "45BE1C51B7018860E83F20B846FF647C32A88539D46791D61AF95A0E89B212B6",
+  "resourceSha256": "F4B2C5E60C78CF1D0E830F719494829E93E607088895DC958640C6DECD121B2B",
+  "sourceSha256": "8100E85093D9417B243F0C3B31DDD09C4B47D119DEA8EF038DDD73F7A0F2E5F7",
+  "originalResourceSha256": "A57684D1826E7246139262057E7834D1141E15112A4922144E97C31A02908194",
+  "luaInternalId": 1000,
+  "luaInternalLength": 44481,
+  "luagnlPreserved": true,
+  "gameStarted": false
+}

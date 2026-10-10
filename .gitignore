@@ -1,0 +1,16 @@
+*.dll
+*.exe
+*.bin
+*.dcx
+*.luabnd
+*.bnd4
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mkv
+*.sav
+*.log
+obj/
+bin/
+.cache/
